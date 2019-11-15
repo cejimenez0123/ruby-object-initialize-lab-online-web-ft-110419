@@ -1,6 +1,6 @@
 require "pry"
 class Person
-  def initialize(name)
+  def initialize(name,breed)
       @name = name
     end
     binding.pry
