@@ -2,7 +2,7 @@ require "pry"
 class Person
   def initialize(name,breed= "Mutt")
       @name = name
-      @breed = brred
+      @breed = breed
     end
 
 
