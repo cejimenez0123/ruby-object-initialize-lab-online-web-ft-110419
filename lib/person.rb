@@ -14,5 +14,5 @@ class Person
     def breed
       @breed
     end
-binding.pry
+
 end
