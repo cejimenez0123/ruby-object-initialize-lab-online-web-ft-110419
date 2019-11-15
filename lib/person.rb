@@ -4,7 +4,7 @@ class Person
       @name = name
 
     end
-    def initialize(,breed= "Mutt")
+    def initialize(breed= "Mutt")
       @breed = breed
     end
 
