@@ -3,7 +3,7 @@ class Person
   def initialize(name)
       @name = name
     end
-def initialize(breed = "Mutt")
+def breed=(breed = "Mutt")
   @breed = breed
 end
 
